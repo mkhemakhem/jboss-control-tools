@@ -1,2 +1,2 @@
 # jboss-control-tools
-jboss start stop ELK cli twidle
+jboss start stop ELK cli twiddle
